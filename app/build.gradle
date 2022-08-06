@@ -28,6 +28,6 @@ android {
 }
 
 dependencies {
-    implementation files('libs/library-release.aar')
+    //implementation files('libs/library-release.aar')
 
 }
